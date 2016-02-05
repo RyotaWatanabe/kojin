@@ -42,5 +42,6 @@ public:
 	//•`‰æˆ—
 	HRESULT Render();
 
+	//ƒ}ƒbƒvî•ñ‚ğæ“¾‚·‚é
 	int GetMap(int y, int x){ return mapTable[y][x]; }
 };
